@@ -1,0 +1,20 @@
+{
+    "name": "hdj/hdjformat",
+    "description": "formatar a data de forma mais rapida",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Hdj\\Hdjformat\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Higino Denilson Januário",
+            "email": "31030977+Higino2020@users.noreply.github.com"
+        }
+    ],
+    
+    "minimum-stability": "stable",
+    "require": {}
+}
